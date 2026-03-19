@@ -1,9 +1,9 @@
-API_ID = 
-API_HASH = ""
+API_ID = 39700359
+API_HASH = "421f7704f961357d403322f712a89410"
 SESSION_NAME = "konchan"
 BASE_DOWNLOAD_PATH = "telegram_data"
 DATABASE_FILE = "crawler.db"
 
 CHANNELS = [
-    "@konchan123345"
+    "@AdSecVN"
 ]
